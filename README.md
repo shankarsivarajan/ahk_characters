@@ -1,4 +1,5 @@
-# ahk_characters
+# AHK characters
+
 AutoHotKey scripts for typing special characters.
 
 The diacritics follow LaTeX's notation closely.

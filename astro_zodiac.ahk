@@ -31,4 +31,4 @@
 :?*:\zodcapricorn::♑
 :?*:\zodaquarius::♒
 :?*:\zodpisces::♓
-:?*:\zodcophiuchus::⛎
+:?*:\zodophiuchus::⛎

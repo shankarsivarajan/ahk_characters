@@ -1,4 +1,4 @@
-﻿:?*:\aleph::ℵ 
+:?*:\aleph::ℵ 
 :?*:\nabla::∇
 :?*:\forall::∀
 :?*:\exists::∃ 
@@ -13,7 +13,13 @@
 :?*:\diamond::♦ 
 :?*:\eighthnote::♪
 :?*:\twonotes::♫
-
+;
+:?*:\male::♂
+:?*:\female::♀
+:?*:\mfsex::⚤
+:?*:\fmsex::⚤
+:?*:\mmsex::⚣
+:?*:\ffsex::⚢
 ;
 :?*:\+-::±
 :?*:\pm::±

@@ -39,7 +39,7 @@
 :?*:\nesse::
 ;
 :?*:\hyarmen::
-:?*:\hwestas::
+:?*:\shwesta::
 :?*:\yanta::
 :?*:\ure::
 ;
@@ -61,47 +61,49 @@
 :?*:\osse::
 :?*:\hwl::
 ;
-:?*:\|x:: ; add to calma to make x.
+; tehtar:
 ;
-:?*:\tehta::
-:?*:\tehte::
-:?*:\tehti::
-:?*:\tehto::
-:?*:\tehtu::
-:?*:\tehty::
+:?*:\tehta::
+:?*:\tehte::
+:?*:\tehti::
+:?*:\tehto::
+:?*:\tehtu::
+:?*:\tehty::
 ;
-:?*:\tehtle::
-:?*:\tehtli::
-:?*:\tehtlo::
-:?*:\tehtlu::
+; with the tehtar on the opposite side of the tengwar:
 ;
-:?*:\lsd:: ; least significant digit
-:?*:\thinnas::
-:?*:\understem::
+:?*:\tehtla::
+:?*:\tehtle::
+:?*:\tehtli::
+:?*:\tehtlo::
+:?*:\tehtlu::
+:?*:\tehtly::
+;
+:?*:\lsd:: ; least significant digit
+:?*:\thinnas::
 ;
 ; numbers in base twelve, lsd first.
 ;
-:?*:\num00::0
+:?*:\num00::
 :?*:\num01::
 :?*:\num02::
-:?*:\num03::3
-:?*:\num04::4
-:?*:\num05::5
-:?*:\num06::6
-:?*:\num07::7
-:?*:\num08::8
-:?*:\num09::9
+:?*:\num03::
+:?*:\num04::
+:?*:\num05::
+:?*:\num06::
+:?*:\num07::
+:?*:\num08::
+:?*:\num09::
 :?*:\num10::
 :?*:\num11::
 :?*:\num12::
 ;
-:?*:\geminate::
-:?*:\nasal::
-:?*:\labial::	
-:?*:\palatal::
-:?*:\sarince::
-:?*:\arrince::
-:?*:\lgeminate:: ; geminate for lambe and alda.
+:?*:\geminate::
+:?*:\nasal::
+:?*:\labial::
+:?*:\palatal::
+:?*:\sarince::
+:?*:\arrince::
 ;
 :?*:\punc,::⸱
 :?*:\punc.:::
@@ -117,10 +119,10 @@
 ;
 :?*:\punc«::
 :?*:\punc»::
-:?*:\punc≤::
-:?*:\punc≥::
+:?*:\punc≤::
+:?*:\punc≥::
 ;
 :?*:\punc<<::
 :?*:\punc>>::
-:?*:\punc<=::
-:?*:\punc>=::
+:?*:\punc<=::
+:?*:\punc>=::

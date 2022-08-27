@@ -102,8 +102,9 @@
 :?*:\nasal::
 :?*:\labial::
 :?*:\palatal::
-:?*:\sarince::
-:?*:\arrince::
+:?*:\xhook::
+:?*:\shook::
+:?*:\tengdot::
 ;
 :?*:\punc,::⸱
 :?*:\punc.:::

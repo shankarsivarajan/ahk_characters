@@ -1,6 +1,6 @@
 # AHK characters
 
- AutoHotKey scripts for typing special characters.
+ [AutoHotKey](https://www.autohotkey.com/) scripts for typing special characters.
 
 - The diacritics follow LaTeX's notation closely: `\'e` → é
 

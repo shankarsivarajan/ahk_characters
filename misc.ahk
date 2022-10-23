@@ -13,6 +13,11 @@
 :?*:\eighthnote::♪
 :?*:\twonotes::♫
 ;
+:?*:\aleph::ℵ
+:?*:\beth::ℶ
+:?*:\gimel::ℷ
+:?*:\dalet::ℸ
+;
 :?*:\male::♂
 :?*:\female::♀
 :?*:\mfsex::⚤

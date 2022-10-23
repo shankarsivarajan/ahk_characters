@@ -1,6 +1,6 @@
 ﻿:?*:\tinco::
 :?*:\parma::
-:?*:\calma::	
+:?*:\calma::
 :?*:\quesse::
 ;
 :?*:\ando::
@@ -79,7 +79,9 @@
 :?*:\tehtlu::
 :?*:\tehtly::
 ;
-:?*:\lsd:: ; least significant digit
+; least significant digit
+:?*:\lsd::
+;
 :?*:\thinnas::
 ;
 ; numbers in base twelve, lsd first.

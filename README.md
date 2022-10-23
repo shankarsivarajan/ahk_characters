@@ -10,5 +10,5 @@
 
 - Miscellaneous symbols include `\infty` → ∞, `\partial` → ∂, and `\times` → ×.
 
-- Tengwar, mapped to Unicode according to [this](https://freetengwar.sourceforge.net/mapping.html) proposal, may be typed following the same syntax as Greek letters: `\tinco` → , and tehtar: `\tehta` → ; `\tehti` → .  
-Tengwar fonts that support this mapping include [Telcontar](https://freetengwar.sourceforge.net/tengtelc.html), [Alcarin](https://github.com/Tosche/Alcarin-Tengwar/) and [Artano](https://github.com/shankarsivarajan/TengwarArtano).
+- Tengwar, mapped to Unicode according to [this](https://freetengwar.sourceforge.net/mapping.html) proposal, may be typed following the same syntax as Greek letters: `\tinco` → ; `\ungwe` → , and tehtar: `\tehta` → ; `\tehti` → .  
+Tengwar fonts that support this mapping include *[Telcontar](https://freetengwar.sourceforge.net/tengtelc.html),* *[Alcarin](https://github.com/Tosche/Alcarin-Tengwar/),* and *[Artano](https://github.com/shankarsivarajan/TengwarArtano).*

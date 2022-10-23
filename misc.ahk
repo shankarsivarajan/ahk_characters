@@ -1,15 +1,15 @@
 :?*:\nabla::∇
 :?*:\forall::∀
-:?*:\exists::∃ 
+:?*:\exists::∃
 :?*:\infty::∞
 :?*:\partial::∂
 :?*:\approx::≈
 :?*:\propto::∝
 :?*:\and::&
-:?*:\spade::♠ 
+:?*:\spade::♠
 :?*:\heart::♥
 :?*:\club::♣
-:?*:\diamond::♦ 
+:?*:\diamond::♦
 :?*:\eighthnote::♪
 :?*:\twonotes::♫
 ;
@@ -27,7 +27,7 @@
 :?*:\>=::≥
 :?*:\<=::≤
 :?*:\==::≡
-
+;
 :?*:\hbar::ћ
 :?*:\sections::§
 :?*:\paragraphp::¶

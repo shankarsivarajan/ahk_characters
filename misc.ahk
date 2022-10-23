@@ -1,4 +1,3 @@
-:?*:\aleph::ℵ 
 :?*:\nabla::∇
 :?*:\forall::∀
 :?*:\exists::∃ 

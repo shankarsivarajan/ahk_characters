@@ -18,7 +18,7 @@
 :?*:\astrochiron::⚷
 :?*:\astronodeasc::☊
 :?*:\astronodedesc::☋
-;
+
 :?*:\zodaries::♈
 :?*:\zodtaurus::♉
 :?*:\zodgemini::♊

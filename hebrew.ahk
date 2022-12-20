@@ -20,7 +20,7 @@
 :?*:\resh::ר
 :?*:\shin::ש
 :?*:\tav::ת
-;
+
 :?*:\finkaph::ך
 :?*:\finmem::ם
 :?*:\finnun::ן

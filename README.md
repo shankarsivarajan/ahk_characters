@@ -16,3 +16,5 @@ Tengwar fonts that support this mapping include *[Telcontar](https://freetengwar
 
 - Hebrew letters: `\aleph` → א, `\beth` → ב, `\gimel` → ג.  
 **WARNING:** These type right-to-left. This bug is unlikely to be fixed for historical reasons.
+
+- Unicode BMP: `\uni0123` → ģ, `\uni4567` → 䕧, `\uniba98` → 몘

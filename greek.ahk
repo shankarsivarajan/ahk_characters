@@ -1,4 +1,4 @@
-﻿:?*:\alpha::α
+:?*:\alpha::α
 :?*:\beta::β
 :?*:\gamma::γ
 :?*:\delta::δ
@@ -20,10 +20,14 @@
 :?*:\tau::τ
 :?*:\upsilon::υ
 :?*:\phi::φ
+:?*:\varphi::ϕ
 :?*:\chi::χ
 :?*:\psi::ψ
 :?*:\omega::ω
 :?*:\digamma::ϝ
 :?*:\heta::ͱ
 :?*:\qoppa::ϙ
-
+:?*:\varqoppa::ϟ
+:?*:\tsan::ϻ
+:?*:\vartsan::ͷ
+:?*:\stigma::ϛ

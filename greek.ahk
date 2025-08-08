@@ -25,4 +25,5 @@
 :?*:\omega::ω
 :?*:\digamma::ϝ
 :?*:\heta::ͱ
-:?*:\koppa::ϙ
+:?*:\qoppa::ϙ
+
